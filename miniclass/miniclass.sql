@@ -7,7 +7,7 @@
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.2.33
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+-- SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `pw_m6_219116824`
+-- Database: `miniclass`
 --
-CREATE DATABASE IF NOT EXISTS `pw_m6_219116824` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `pw_m6_219116824`;
+CREATE DATABASE IF NOT EXISTS `miniclass` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `miniclass`;
 
 -- --------------------------------------------------------
 

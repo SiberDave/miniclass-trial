@@ -1,0 +1,4 @@
+MINICLASS_HOST=<host>
+MINICLASS_USER=<user>
+MINICLASS_PASS=<password>
+MINICLASS_DB=miniclass
